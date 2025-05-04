@@ -14,7 +14,7 @@
 
 - 💻 Passionate about **system programming**, **low-level optimization**, **software architecture** and **backend developement**.
 - 🛡️ **Problem solver** who enjoys hacking solutions together.
-- 🔥 Fluent in **C, C++**, Linux internals, networking, and embedded systems.
+- 🔥 Fluent in **C, C++**, Java, Linux internals, networking, and embedded systems.
 - 🎯 Always learning, always building.
 
 ---
